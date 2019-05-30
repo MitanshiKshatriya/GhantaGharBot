@@ -1,1 +1,1 @@
-tweepy.py
+tweepy==3.7.0
