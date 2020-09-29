@@ -1,3 +1,6 @@
 # GhantaGharBot
-A bot that tweets time check it at @GhantagharBot. Also retweets if you mention #time 
-Due to some error in herokuapp the bot is not funcional now.
+
+bot2.py - Retweets hashtags #womenwhocode, #womenintech, #100daysofcode at 00 IST everyday. Live at <a href="https://twitter.com/ghantagharbot" target="_blank">@Ghantagharbot</a>
+
+bot.py -  Can be used to tweet time. Also retweets if you mention #time 
+
